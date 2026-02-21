@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+asie-key-pair.pem
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+vpc.png
